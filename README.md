@@ -6,8 +6,8 @@ Dưới đây là nội dung đã chỉnh sửa để phù hợp với file READ
 
 **Nhóm thực hiện**  
 - Vũ Đức Anh - 1671020036 - anhvuduc9204@gmail.com  
-- Nguyễn Quang Hiệp - 1671020115  - nguyenquanghiep2004@gmail.com
-- Võ Vĩnh Thái - 1671020289  - vovinhthai@gmail.com
+- Nguyễn Quang Hiệp - 1671020115  - quanghiep2342004@gmail.com
+- Võ Vĩnh Thái - 1671020289  - vovinhthai2004@gmail.com
 
 ## Giới thiệu bài toán
 
